@@ -2,8 +2,8 @@
 
 1. First we create a virtual environment "flask_env" and activate this
     follow these command
-        -> python -m venv flask_env
-        -> flask_env\Scripts\activate
+        * python -m venv flask_env
+        * flask_env\Scripts\activate
 
 2. then we install flask in virtual environment 
     follow this command
